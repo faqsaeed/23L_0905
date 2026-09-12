@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+Assignment1_*.zip
+build_notebook.py
+scrape_assignment.py
+PUBLIC_DATASET_URL.txt
+Assignment_1_Version_C_clean.txt
